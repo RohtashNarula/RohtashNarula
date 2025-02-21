@@ -46,10 +46,10 @@ Demonstrates advanced Camera API usage, including real-time image processing.
 
 GitHub: RohtashNarula
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/rohtash-narula-9a7a91181
 
 Portfolio: Your Website
 
-Email: your.email@example.com
+Email: narula.rohtash@gmail.com
 
 🔥 Always learning, building, and sharing knowledge about Android development! Let's connect and collaborate. 🚀
